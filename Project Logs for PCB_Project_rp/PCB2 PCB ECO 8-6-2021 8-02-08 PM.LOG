@@ -1,0 +1,15 @@
+Added Component: Designator=U(QFP80P900X900X120-32N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ATMEGA168-20AU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TQFP-32 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ATMEGA168-20AU/Microchip/view-part/776709/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetLabel102 Pin=J?-46
+Added Pin To Net: NetName=NetLabel102 Pin=U-23
+Added Net: Name=NetLabel102
+Added Pin To Net: NetName=NetLabel103 Pin=J?-47
+Added Pin To Net: NetName=NetLabel103 Pin=U-24
+Added Net: Name=NetLabel103
+Added Member To Class: ClassName=Sheet2 Member=Component U ATMEGA168-20AU
